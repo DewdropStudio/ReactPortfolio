@@ -2,7 +2,7 @@ export const contact = {
   name: "Rocio Avila",
   job: "Web Developer",
   avatar: {
-    src: "https://mk0vojovowefnkok7c2h.kinstacdn.com/wp-content/uploads/2019/03/26.3.19_Header_Blog.jpg",
+    src: "https://i.ibb.co/SNcX6wd/13901379-1205745979477660-9134903234417806274-n.jpg",
     alt: "Rocio"
   },
   phone: "(773)***-****",
